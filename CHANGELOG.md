@@ -3,6 +3,12 @@
 Every release, and what changed in it. Generated from the commit subjects,
 which is why they are worth writing carefully.
 
+## [2.1.0] - 2026-10-26
+
+### Features
+
+- **core**: A notices channel for warnings not tied to a row (OPS-195) (#460)
+
 ## [2.0.1] - 2026-10-26
 
 ### Bug Fixes
